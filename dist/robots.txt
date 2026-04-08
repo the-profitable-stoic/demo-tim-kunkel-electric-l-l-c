@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-tim-kunkel-electric-l-l-c.dream-surge.com/sitemap-index.xml
